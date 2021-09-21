@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @poolsar42
-- 👀 I’m interested in Bio
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on gamedev
-- 📫 How to reach me? through my e-mail
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on software development
+- 📫 How to reach me? poolsar.42@gmail.com
 
 <!---
 poolsar42/poolsar42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
