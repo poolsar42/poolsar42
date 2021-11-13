@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @poolsar42
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on software development
+- 🌱  learning
+- 💞️  looking to collaborate on software development
 - 📫 How to reach me? poolsar.42@gmail.com
 
 <!---
