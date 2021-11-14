@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @poolsar42
-- 👀 I’m interested in Computer Science
-- 🌱  learning
-- 💞️  looking to collaborate on software development
+- 👋 Hi, I’m Emil
+- 👀 I have a strong attraction to web3 development
+- 🌱 I'm constantly learning a new staff
+- 💞️ Looking to collaborate on software development
 - 📫 How to reach me? poolsar.42@gmail.com
 
 <!---
