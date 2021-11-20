@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👀 I have a strong attraction to web3 development
-- 🌱 I'm constantly learning a new staff
+- 🌱 I'm constantly learning new staff
 - 💞️ Looking to collaborate on software development
 - 📫 How to reach me? poolsar.42@gmail.com
