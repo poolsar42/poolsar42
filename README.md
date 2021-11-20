@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
  ### 👋 Hey!
  #### I’m Emil
 ![stats](https://github-readme-stats.vercel.app/api?username=poolsar42&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poolsar42&langs_count=2)](https://github.com/poolsar42/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poolsar42&langs_count=8)](https://github.com/poolsar42/github-readme-stats)
 
 
 #### ^ Jupyter notebook and JavaScript here are mixed up for some reason ¯\_(ツ)_/¯
