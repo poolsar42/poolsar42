@@ -4,8 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
  ### 👋 Hey!
  #### I’m Emil
-![stats](https://github-readme-stats.vercel.app/api?username=poolsar42&include_all_commits=true&show_icons=true&theme=midnight-purple)  
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=poolsar42&show_icons=true&theme=midnight-purple&layout=compact)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
+ 
+![stats](https://github-readme-stats.vercel.app/api?username=poolsar42&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple)  
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=poolsar42&count_private=true&show_icons=true&theme=midnight-purple&layout=compact)
 
 #### ^ Jupyter notebook and JavaScript here are mixed up for some reason ¯\_(ツ)_/¯
 
