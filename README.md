@@ -4,6 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
  ### Welcome to my github profile
  
-Apart from pillowboy and pillowguy and poolsarman people also call me Emil.
+Apart from pillowboy and `pillowguy` and poolsarman people also call me Emil.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=poolsar42&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple)  
