@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
  ### Welcome to my github profile
  
-Apart from `pillowboy` and `pillowguy` and `poolsarman` people also call me Emil.
+Apart from `pillowboy`, `pillowguy`, `poolsar42` and `poolsarman` people also call me Emil.
 
 I have a [website](https://pillowguy.me) and [blog](https://blog.pillowguy.me)
 
