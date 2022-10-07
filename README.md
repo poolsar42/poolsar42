@@ -8,4 +8,4 @@ Apart from `pillowboy`, `pillowguy`, `poolsar42` and `poolsarman` people also ca
 
 I have a [website](https://pillowguy.me) and [blog](https://blog.pillowguy.me)
 
-![stats](https://github-readme-stats.vercel.app/api?username=poolsar42&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple)  
+![stats](https://github-readme-stats.vercel.app/api?username=poolsar42&count_private=true&include_all_commits=true&show_icons=true&theme=graywhite)  
