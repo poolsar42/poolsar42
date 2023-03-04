@@ -6,6 +6,6 @@ You can click the Preview link to take a look at your changes.
  
 Apart from `pillowboy`, `pillowguy`, `poolsar42` and `poolsarman` people also call me Emil.
 
-I have a [website](https://pillowboy.me){:target="_blank" rel="noopener"} and [blog](https://blog.pillowboy.me){:target="_blank" rel="noopener"}
+I have a [website](https://pillowboy.me) and [blog](https://blog.pillowboy.me)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=poolsar42&count_private=true&include_all_commits=true&show_icons=true&theme=graywhite)  
